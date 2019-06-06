@@ -3,4 +3,5 @@ layout: default
 ---
 
 # About
-Testing
+
+Coming soon...
