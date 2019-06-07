@@ -10,6 +10,4 @@ See my works below. Unless stated otherwise in their description, **all their ba
 
 </section>
 
-Coming soon...
-
 TODO: Add portfolio contents
