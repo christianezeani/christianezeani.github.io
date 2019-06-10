@@ -40,4 +40,8 @@ social_icons:
     link: https://www.twitter.com/christianezeani
     icon: fab fa-twitter
 
+  - name: rubygem
+    link: https://rubygems.org/profiles/christianezeani
+    icon: fas fa-gem
+
 google_analytics: UA-141737787-1
