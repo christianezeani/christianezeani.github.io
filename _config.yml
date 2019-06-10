@@ -23,7 +23,7 @@ menu:
     icon: ""
 
 # Socialmedia Icons
-social:
+social_icons:
   - name: linkedin
     link: https://www.linkedin.com/in/christianezeani
     icon: fab fa-linkedin
