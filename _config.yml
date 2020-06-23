@@ -45,3 +45,6 @@ social_icons:
     icon: fas fa-gem
 
 google_analytics: UA-141737787-1
+
+footer:
+  copyright_text: "&copy; Christian Ezeani"
