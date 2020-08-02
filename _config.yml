@@ -4,6 +4,9 @@ remote_theme: christianezeani/panthera-jekyll
 title: Christian Ezeani
 subtitle: Full-Stack Developer
 
+paginate: 10
+paginate_path: "/blog/page:num/"
+
 # Side Menu Links
 menu:
   - text: Portfolio
